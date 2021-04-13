@@ -1,0 +1,28 @@
+{
+    "author": {
+        "name": "René André IT-Services GmbH",
+        "email": "info@raits.gmbh",
+        "url": "https://raits.gmbh/"
+    },
+    "publisher": "raits",
+    "repository": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-go-development"
+    },
+    "license": "MIT",
+    "name": "go-extensions",
+    "displayName": "Go Development Extension Pack",
+    "description": "Extensions related to Go development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+      "raits"
+    ],
+    "extensionPack": [ 
+        ""
+    ]
+}
