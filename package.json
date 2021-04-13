@@ -23,6 +23,13 @@
       "raits"
     ],
     "extensionPack": [ 
-        ""
+        "golang.go",
+        "msyrus.go-doc",
+        "ethan-reesor.vscode-go-test-adapter",
+        "766b.go-outliner",
+        "premparihar.gotestexplorer",
+        "marcusorchard.go-immutable",
+        "defaltd.go-coverage-viewer",
+        "umutbasal.go-snippets-vscode"
     ]
 }
