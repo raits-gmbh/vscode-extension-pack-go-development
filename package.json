@@ -12,7 +12,7 @@
     "name": "go-extensions",
     "displayName": "Go Development Extension Pack",
     "description": "Extensions related to Go development",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -30,6 +30,7 @@
         "premparihar.gotestexplorer",
         "marcusorchard.go-immutable",
         "defaltd.go-coverage-viewer",
-        "umutbasal.go-snippets-vscode"
+        "umutbasal.go-snippets-vscode",
+        "coenraads.bracket-pair-colorizer"
     ]
 }
