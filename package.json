@@ -12,7 +12,7 @@
     "name": "go-extensions",
     "displayName": "Go Development Extension Pack",
     "description": "Extensions related to Go development",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -25,7 +25,6 @@
     "extensionPack": [ 
         "golang.go",
         "msyrus.go-doc",
-        "ethan-reesor.vscode-go-test-adapter",
         "766b.go-outliner",
         "premparihar.gotestexplorer",
         "marcusorchard.go-immutable",
